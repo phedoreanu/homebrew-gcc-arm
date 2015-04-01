@@ -1,4 +1,4 @@
 homebrew-gcc-arm
 ============
 
-PX4-related Homebrew formula for developers using OS X
+gcc-arm-4.9 Homebrew formula for developers using OS X
